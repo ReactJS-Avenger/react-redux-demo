@@ -5,3 +5,7 @@
 
 2. Check usage waring when using hooks with react-redux
 
+3. use middleware for logging i.e. redux-logger
+
+4. adde extension redux-devtools
+
