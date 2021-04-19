@@ -12,6 +12,7 @@ const CakeContainer = (props) => {
 };
 
 // this function get the redux state as a parameter and return an object
+// think about second parameter which is a props that is already passed to the component
 const mapStateToProps= state =>{
     return {
         numberOfCakes: state.cake.numberOfCakes
