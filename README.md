@@ -9,3 +9,5 @@
 
 4. adde extension redux-devtools
 
+5. install package redux-devtools-extension
+
